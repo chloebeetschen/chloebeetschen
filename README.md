@@ -20,7 +20,7 @@ Another passion of mine also lies in Cyber Security, I am in the process of work
 
 
 # 🏅 Achievements
-
+GCP Digital Cloud Leader - Certification - AUG 2023
 
 # 🛠️ Skills
 ## Languages
