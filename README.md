@@ -16,8 +16,6 @@ Another passion of mine also lies in Cyber Security, I am in the process of work
 
 🎸 Outside of code, my hobbies range from football, being an avid player, captain and supporter, to skiing and snowboarding. I also enjoy travelling, having visted many of the capitals and great cities of Europe in the last year. 
 
-📚 I also love reading books on personal development & financial literacy. My favorite ones are The Compound Effect by Darren Hardy in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
-
 
 # 🏅 Achievements
 GCP Digital Cloud Leader - Certification - AUG 2023
