@@ -7,7 +7,10 @@
 😄 Pronouns: She/Her
 
 
-🎓 I am Chloe Beetschen a 3rd year University of Leeds student, persuing an Integrated Masters in Computer Science (BSc, MEng). In summer of 2023 I completed a summer internship at GFT working on cloud solutions (GCP and Terraform), data (strategies, science and architectures) and security. This internship has also improved my knowledge of Agile and CI/CD, having completed many LinkedIn Learning courses to expand my skills and expertise, and through applied learning with the use of Azure DevOps and Scrum Meetings.
+🎓 
+Current Cloud Solutions Architect Intern @ Microsoft.
+
+I am Chloe Beetschen a 3rd year University of Leeds student, persuing an Integrated Masters in Computer Science (BSc, MEng). In summer of 2023 I completed a summer internship at GFT working on cloud solutions (GCP and Terraform), data (strategies, science and architectures) and security. This internship has also improved my knowledge of Agile and CI/CD, having completed many LinkedIn Learning courses to expand my skills and expertise, and through applied learning with the use of Azure DevOps and Scrum Meetings.
 
 👨‍💻 I also have experience in website/webapp building (both front-end and back-end), as well as python and java experience building smaller projects or games.
 Another passion of mine also lies in Cyber Security, I am in the process of working towards by Cyber Technician and CEH certifications.
@@ -19,6 +22,7 @@ Another passion of mine also lies in Cyber Security, I am in the process of work
 
 # 🏅 Achievements
 GCP Digital Cloud Leader - Certification - AUG 2023
+AZ-900, AI-900, SC-900, DP-900 - AUG 2024
 
 Arkwright Engineering Scholar - 2019
 
